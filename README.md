@@ -58,11 +58,11 @@ Après avoir consulté le mail d’Antoine, vous prenez directement contact avec
 
     JULIE
     Oui ! J’aimerais que tu regardes en particulier 5 corrélations : 
-    ● le lien entre le genre d’un client et les catégories des livres achetés, 
-    ● le lien entre l'âge des clients et le montant total des achats, 
-    ● le lien entre l'âge des clients et la fréquence d’achat,
-    ● le lien entre l'âge des clients et la paille du panier moyen, 
-    ● et pour finir le lien entre l'âge des clients et la catégorie deslivres achetés. 
+        ● le lien entre le genre d’un client et les catégories des livres achetés, 
+        ● le lien entre l'âge des clients et le montant total des achats, 
+        ● le lien entre l'âge des clients et la fréquence d’achat,
+        ● le lien entre l'âge des clients et la paille du panier moyen, 
+        ● et pour finir le lien entre l'âge des clients et la catégorie deslivres achetés. 
 
     VOUS
     Ça marche, je m’occupe de ça et je reviens vers toi si j’ai des questions ou pour te présenter les résultats !
