@@ -43,3 +43,27 @@ Annabelle vous a déjà expliqué le contexte et les attendus de la mission oral
         Mail forwardé d’Antoine
         Fichier ZIP contenant les bases
 
+Après avoir consulté le mail d’Antoine, vous prenez directement contact avec Julie sur Teams. :
+
+    VOUS
+    Salut Julie, je suis le nouveau Data Analyst chargé d’analyser les données de nos ventes en ligne. 
+    Annabelle m’a dit que tu avais des demandes spécifiques concernant l’analyse des comportements clients.
+
+    JULIE
+    Salut ! Bienvenue dans l’équipe ! J’allais justement prendre contact avec toi car je vais avoir besoin que tu regardes certaines corrélations. 
+    Nous souhaitons mieux comprendre le comportement de nos clients.
+
+    VOUS
+    Bien sûr. Tu as déjà une idée précise de ce que tu veux que je regarde ? 
+
+    JULIE
+    Oui ! J’aimerais que tu regardes en particulier 5 corrélations : 
+    ● le lien entre le genre d’un client et les catégories des livres achetés, 
+    ● le lien entre l'âge des clients et le montant total des achats, 
+    ● le lien entre l'âge des clients et la fréquence d’achat,
+    ● le lien entre l'âge des clients et la paille du panier moyen, 
+    ● et pour finir le lien entre l'âge des clients et la catégorie deslivres achetés. 
+
+    VOUS
+    Ça marche, je m’occupe de ça et je reviens vers toi si j’ai des questions ou pour te présenter les résultats !
+    
