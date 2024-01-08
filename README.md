@@ -43,6 +43,10 @@ Annabelle vous a déjà expliqué le contexte et les attendus de la mission oral
         Mail forwardé d’Antoine
         Fichier ZIP contenant les bases
 
+**Données :**
+* [Mail forwardé d’Antoine](https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/DAN_V2_P6/Mail_Antoine_P3.pdf)
+* [Fichier ZIP contenant les bases](https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/DAN_V2_P6/BDD.zip)
+
 Après avoir consulté le mail d’Antoine, vous prenez directement contact avec Julie sur Teams. :
 
     VOUS
